@@ -18,20 +18,6 @@ Saya adalah seorang pengembang web yang sedang menempuh studi di bidang IT. Foku
 * 🌱 Belajar mendalam: **Laravel Ecosystem & React.js**
 * 💬 Tanya saya tentang: **PHP, Python, UI/UX (Figma)**
 
----
-
-### 💻 Tech Stack
-<div align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
-
----
 
 ### 📊 GitHub Activity
 <div align="center">

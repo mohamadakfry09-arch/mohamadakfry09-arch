@@ -43,29 +43,6 @@ Saya adalah seorang pengembang web yang sedang menempuh studi di bidang IT. Foku
   <img src="https://nirzak-streak-stats.vercel.app/?user=mohamadakfry09-arch&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
----
-
-### 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamadakfry09-arch&theme=tokyonight&no-frame=true&no-bg=true&column=4" />
-</div>
-
----
-
-### 🌐 Socials & Contact
-<div align="center">
-  <a href="https://muhamadakfry09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://mastodon.social/@Muhamad Akfry">
-    <img src="https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mohamad-akfry-hermawan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
-<br />
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=mohamadakfry09-arch&icon=0&color=7" />

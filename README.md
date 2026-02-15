@@ -11,8 +11,15 @@
 
 ---
 
+### 🐍 My GitHub Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohamadakfry09-arch/mohamadakfry09-arch/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
+</div>
+
+---
+
 ### 💫 About Me
-Saya adalah seorang pengembang web yang sedang menempuh studi di bidang IT. Fokus utama saya adalah membangun aplikasi yang efisien, mulai dari logika **back-end** hingga antarmuka **front-end** yang responsif. Saya senang mengeksplorasi teknologi baru dan menuangkannya ke dalam proyek-proyek praktis.
+Saya adalah seorang pengembang web yang sedang menempuh studi di bidang IT. Fokus utama saya adalah membangun aplikasi yang efisien, mulai dari logika **back-end** hingga antarmuka **front-end** yang responsif. 
 
 * 🔭 Sedang mengerjakan: **Sistem Informasi Akademik (SiAlim)**
 * 🌱 Belajar mendalam: **Laravel Ecosystem & React.js**
@@ -48,21 +55,6 @@ Saya adalah seorang pengembang web yang sedang menempuh studi di bidang IT. Foku
 ### 🏆 Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohamadakfry09-arch&theme=tokyonight&no-frame=true&no-bg=true&column=4" />
-</div>
-
----
-
-### 🌐 Socials & Contact
-<div align="center">
-  <a href="https://muhamadakfry09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://mastodon.social/@Muhamad Akfry">
-    <img src="https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mohamad-akfry-hermawan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </div>
 
 <br />

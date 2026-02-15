@@ -1,35 +1,31 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Mohamad%20Akfry%20Hermawan&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Mohamad%20Akfry%20Hermawan&fontSize=50&animation=fadeIn&fontAlignY=40&theme=tokyonight" width="100%" />
 
-  <h3>🚀 Full-Stack Web Developer Enthusiast 🎓</h3>
+  <h3>🤖 Full-Stack Developer | AI & Web Tech Enthusiast 🌌</h3>
   
   <p>
-    <img src="https://img.shields.io/badge/Status-Mahasiswa%20STMIK%20IKMI%20Cirebon-blue?style=flat-square">
-    <img src="https://img.shields.io/badge/Alumni-SMK%20Pertiwi%20Kuningan-orange?style=flat-square">
+    <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white">
+    <img src="https://img.shields.io/badge/Location-Cirebon,%20ID-0077B5?style=for-the-badge&logo=googlemaps&logoColor=white">
   </p>
 </div>
 
 ---
 
-### 💫 About Me
-Saya adalah seorang pengembang web yang sedang menempuh studi di bidang IT. Fokus utama saya adalah membangun aplikasi yang efisien, mulai dari logika **back-end** hingga antarmuka **front-end** yang responsif. Saya senang mengeksplorasi teknologi baru dan menuangkannya ke dalam proyek-proyek praktis.
-
-* 🔭 Sedang mengerjakan: **Sistem Informasi Akademik (SiAlim)**
-* 🌱 Belajar mendalam: **Laravel Ecosystem & React.js**
-* 💬 Tanya saya tentang: **PHP, Python, UI/UX (Figma)**
-
-
-### 📊 GitHub Activity
+### 🐍 Contribution Snake Game
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamadakfry09-arch&theme=tokyonight&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadakfry09-arch&theme=tokyonight&layout=compact&hide_border=true" width="45%" />
+  <img src="https://raw.githubusercontent.com/mohamadakfry09-arch/mohamadakfry09-arch/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mohamadakfry09-arch&theme=tokyonight&hide_border=true" width="100%" />
-</div>
+---
 
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mohamadakfry09-arch&icon=0&color=7" />
-</div>
+### 🛰️ Core Intelligence (About Me)
+```python
+class AkfryHermawan:
+    def __init__(self):
+        self.role       = "Full-Stack Developer"
+        self.university = "STMIK IKMI Cirebon"
+        self.background = "SMK Pertiwi Kuningan"
+        self.status     = "Building efficient digital solutions"
+        
+    def current_focus(self):
+        return ["SiAlim System", "Laravel Ecosystem", "AI Integration"]

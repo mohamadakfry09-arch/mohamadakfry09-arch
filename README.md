@@ -32,12 +32,6 @@ Saya adalah seorang pengembang web yang sedang menempuh studi di bidang IT. Saya
 
 ---
 
-### 📈 Statistik GitHub
-![Akfry's GitHub stats](https://github-readme-stats.vercel.app/api?username=NAMA_USER_GITHUB_ANDA&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAMA_USER_GITHUB_ANDA&layout=compact&theme=radical)
-
----
-
 ### 📫 Mari Terhubung!
 * **LinkedIn:** [linkedin.com/in/username-anda](https://linkedin.com/in/username-anda)
 * **Email:** [email-anda@example.com](mailto:email-anda@example.com)

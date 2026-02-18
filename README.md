@@ -32,17 +32,6 @@ Saya adalah seorang pengembang web yang sedang menempuh studi di bidang IT. Saya
 
 ---
 
-### 📂 Proyek Unggulan
-
-Beberapa proyek yang pernah saya kerjakan meliputi:
-* **SiAlim:** Sistem Informasi Akademik Mahasiswa berbasis Laravel & Tailwind.
-* **IKMI CERDAS:** Portal login dan manajemen data mahasiswa menggunakan PHP.
-* **E-Commerce "Akarayasa":** Desain alur dan pengembangan platform belanja online.
-* **Banking System:** Simulasi sistem perbankan sederhana menggunakan Python.
-* **Analisis K-Means:** Studi pengelompokan upah provinsi menggunakan bahasa R.
-
----
-
 ### 📈 Statistik GitHub
 ![Akfry's GitHub stats](https://github-readme-stats.vercel.app/api?username=NAMA_USER_GITHUB_ANDA&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAMA_USER_GITHUB_ANDA&layout=compact&theme=radical)
